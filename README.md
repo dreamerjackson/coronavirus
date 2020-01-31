@@ -244,6 +244,7 @@
 ## 1月29日
 * 英航暂停直飞中国航班至3月 来源: [财经网](http://industry.caijing.com.cn/20200129/4640644.shtml)
 * 世界知名的《新英格兰医学杂志》上刊出了《新型冠状病毒肺炎在武汉的早期传播》，武汉市前425例确诊病例的数据，该流行病每7.4天增加一倍。R0为2.2（平均每个患者将感染传播给2.2个其他人），425例病例中几乎有一半发生在60岁以上的成年人。有证据表明自2019年12月中以来在亲密接触者之间已经发生了人与人之间的传播。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
+
 ## 1月30日
 * 印度报告了首例确诊的冠状病毒病例。根据一份政府声明，在武汉大学学习的一名学生在印度南部喀拉拉邦的测试呈阳性。声明说，患者被隔离在医院，病情稳定并受到密切监视。来源: [彭博社](https://www.bloomberg.com/news/articles/2020-01-29/who-to-mull-emergency-decree-death-toll-hits-169-virus-update)
 * 唐纳德·特朗普总统任命了一个工作队来协调美国对冠状病毒爆发的反应。 来源: [彭博社](https://www.bloomberg.com/news/articles/2020-01-29/who-to-mull-emergency-decree-death-toll-hits-169-virus-update)
