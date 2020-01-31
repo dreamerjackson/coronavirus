@@ -6,6 +6,7 @@
 
 ## 12月1日
 * 根据权威医学杂志柳叶刀披露的数据，早在12月1日，出现最早的一例新型冠状病毒典型案例，并且该患者并没有海鲜市场的暴露史。来源:[柳叶刀](https://www.thelancet.com/coronavirus)
+* 世界知名的《新英格兰医学杂志》上刊出了《新型冠状病毒肺炎在武汉的早期传播》，武汉市前425例确诊病例的数据，该流行病每7.4天增加一倍。R0为2.2（平均每个患者将感染传播给2.2个其他人），425例病例中几乎有一半发生在60岁以上的成年人。有证据表明自2019年12月中以来在亲密接触者之间已经发生了人与人之间的传播。来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 12月10日
 * 3例，1例有华南海鲜市场暴露史  来源:[柳叶刀](https://www.thelancet.com/coronavirus)
@@ -46,81 +47,108 @@
 ## 12月27日
 * 2例，2例有华南海鲜市场暴露史  来源:[柳叶刀](https://www.thelancet.com/coronavirus)
 
+## 12月28日
+* 约2例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
+
+## 12月29日
+* 约7例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
+
 ## 12月30日
 * 武汉市卫生健康委员会医政医管处发布《关于做好不明原因肺炎救治工作的紧急通知》 来源:[维基百科](https://zh.wikipedia.org/wiki/File:%E5%85%B3%E4%BA%8E%E5%81%9A%E5%A5%BD%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E6%95%91%E6%B2%BB%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5.pdf)
+## 12月29日
+* 约6例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 12月31日
 * 3例，2例有华南海鲜市场暴露史  来源:[柳叶刀](https://www.thelancet.com/coronavirus)
 * 武汉市卫健委发布关于当前我市肺炎疫情的情况通报，目前已发现27例病例，其中7例病情严重，其余病例病情稳定可控，有2例病情好转拟于近期出院。病例临床表现主要为发热，少数病人呼吸困难，胸片呈双肺浸润性病灶。 来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989)
 * 国家卫健委专家组31日上午已抵达武汉，正展开相关检测核实工作。来源:[新京报](http://www.bjnews.com.cn/news/2019/12/31/668435.html)
+* 约3例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月1日
 * 1例，1例有华南海鲜市场暴露史  来源:[柳叶刀](https://www.thelancet.com/coronavirus)
 * 华南海鲜市场关闭
 * 武汉市公安局对一些关于“武汉病毒性肺炎”的不实信息进行了调查，8人因散布不实信息，被依法处理。来源:[新华网](http://www.xinhuanet.com/2020-01/01/c_1125412773.htm)
 * 2020年1月2日晚间新加坡卫生部公告，已通知医疗从业人员留意疑似武汉肺炎病例，出现发热、呼吸道疾病或肺炎症状且14日内曾访问武汉的疑似病例将受到隔离，16岁以上和以下的疑似病例分别集中在陈笃生医院和竹脚妇幼医院救治。1月3日晚间起，由武汉抵达樟宜机场的乘客必须接受体温检查，体温异常的乘客将被送往医院做进一步的检验 来源:[新加坡联合早报](https://www.zaobao.com/znews/singapore/story20200103-1018191)
+* 约10例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
+
 
 ## 1月2日
 * 香港一名女病人今日早上自行前往將軍澳醫院求診，她報稱自己曾到訪武漢，但無透露曾否前往華南海鮮市場。經初步診斷，該病人並無發燒及相關病徵。此外，有另一名同樣曾到訪武漢的女病人，因發燒及出現上呼吸道症狀，正於屯門醫院接受隔離治療，初步檢測對SARS、流感及禽流感病毒呈陰性反應。来源: [香港01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/416747/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E-%E6%9B%BE%E8%A8%AA%E6%AD%A6%E6%BC%A2%E5%A5%B3%E7%97%85%E4%BA%BA%E5%BE%80%E5%B0%87%E8%BB%8D%E6%BE%B3%E9%86%AB%E9%99%A2%E6%B1%82%E9%86%AB-%E6%B6%88%E6%81%AF-%E7%97%85%E4%BA%BA%E7%84%A1%E7%99%BC%E7%87%92)
+* 约8例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月3日
 * 武汉市卫健委发布通告，截至2020年1月3日8时，共发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定。目前所有病例均在武汉市医疗机构接受隔离治疗，已经追踪到121名密切接触者并行医学观察，密切接触者的追踪工作仍在进行中。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010309017)
 * 香港公立医院再接受多2名曾到访武汉的女病人，她们出现发烧、呼吸道感染或肺炎症状，被送到玛嘉烈医院接受隔离治疗 来源: [香港电台](https://news.rthk.hk/rthk/ch/component/k2/1500888-20200103.htm)
 * 行政长官林郑月娥在食物及卫生局局长陈肇始陪同下，到高铁西九龙站，视察因应武汉疫情所采取的出入境口岸防控措施  来源: [now新闻台](https://news.now.com/home/local/player?newsId=375467)
+* 约13例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月4日
 * 香港特区政府启动“严重”应变级别。 来源:[财新网](http://www.caixin.com/2020-01-04/101501017.html)
 * 新加坡卫生部公布一名曾到访武汉市的3岁女童出现疑似不明肺炎个案，新加坡卫生部2020年1月5日傍晚发文告说，前一日的3岁女童已经证实与武汉肺炎无关，对SARS、中东呼吸综合症亦呈阴性反应。该名女童感染的是在儿童呼吸道感染中常见的呼吸管道合胞病毒（respiratory syncytial virus）来源: [东方日报](https://hk.on.cc/hk/bkn/cnt/news/20200104/bkn-20200104205852175-0104_00822_001.html)[新洲网](https://www.sinchew.com.my/content/content_2191664.html?__cf_chl_captcha_tk__=74c15eca03bf9bbf103c81f11d8b7b5f9ee5958c-1580294307-0-Acj1s5AMp-dzmU0pOrJAx666C3amFfXRAtktzYPlZZbbERqIHN1Fy2l3GDgNsTYCx_PrRyduVQ2fzuHquw8HaL7oLhcYoV7GhchMMRtAi2WV2-5wZhzX0pcYwk0xflZKUAz9m3uAXApoi2HVb5kl6nYCXBI_dV1MKGmpkCBPFYQ-S1zS_5XxqSEDls0Y3TMlbaedx7pgs-Fojcfs4VQZUZWPiOGpnkHUXNcStMY70LSi3thSY6SL7Y192EUiGrHmdDWdlTCOKOqwccPzV7CW6crFIKOkunKyaBclaTCLY5Xsr_fi19Ye2O5ussdsvb7nXxpC60hVWmhMnVr0JZpas00)
+* 约13例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月5日
 * 武汉市卫健委发布通告,截至2020年1月5日8时，我市共报告符合不明原因的病毒性肺炎诊断患者59例，其中重症患者7例，其余患者生命体征总体稳定，目前所有患者均在武汉市医疗机构接受隔离治疗，无死亡病例。在59例患者中，病例最早发病时间为2019年12月12日，最晚发病时间为12月29日；已经追踪到163名密切接触者并行医学观察，密切接触者的追踪工作仍在进行中。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020)
 * 医院管理局指过去一日公立医院和私家医生分别呈报7名和1名，两周内曾到武汉的病人返港后出现发烧、呼吸道感染或肺炎病征，年龄2至55岁，分别5男3女，经化验后4人确诊流感、副流感、呼吸道合胞病毒或冠状病毒，其余4人未有结果，分别于玛嘉烈医院、伊利沙伯医院、律敦治医院、将军澳医院及联合医院隔离治疗，香港至今累计呈报16宗怀疑个案。来源:[now新闻](https://news.now.com/home/local/player?newsId=375640&home=1)。同日，香港中文大学证实一名学生在12月29日返港，1月4日感到身体不适 来源: [香港电台新闻](https://news.rthk.hk/rthk/ch/component/k2/1501169-20200105.htm)
+* 约15例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月6日
 * 武汉政协武汉市第十三届委员会第四次会议和武汉市第十四届人民代表大会第五次会议开始 来源:[人民网](http://hb.people.com.cn/n2/2020/0106/c192237-33693177.html)
+* 约20例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月7日
 * 实验室检出一种新型冠状病毒，获得该病毒的全基因组序列，经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒，电镜下呈现典型的冠状病毒形态。来源:[新华网](http://www.xinhuanet.com/2020-01/09/c_1125438971.htm)
 * 武汉华中科技大学同济医学院附属协和医院神经外科为一名69岁病人做了脑外科手术，术前病人无任何呼吸道症状。1月11日，病人突然出现发热症状，出现明显的肺部感染表现。术后第五日，肺炎症状呈现难以逆转的恶化态势，与他接触的多名医护人员也陆续出现发热症状。1月15日，被确诊新型冠状病毒感染。此病例后被专家称为一名“超级传播者”，导致1名医生、13名护士被感染。来源: [财新网](http://www.caixin.com/2020-01-20/101506242.html)
+* 约30例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月8日
 * 香港：1月8日，医院管理局指截至中午12时，再接收8名曾于过去14天到访过武汉，并出现发烧、呼吸道感染或肺炎症状的病人，令至日初步累积怀疑个案增至38宗。来源:[苹果日报](https://hk.news.appledaily.com/local/20200108/YV2DUZKAUO76NEHOF5ZN5YOUOU/)
+* 约45例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月9日
 * 第一例死亡案例。患者为男性，61岁，因呼吸衰竭、重症肺炎入院，同时患有腹部肿瘤及慢性肝病。该患者常年在武汉市华南海鲜市场采购货物。入院后给予对症支持、抗感染、呼吸机辅助呼吸、持续ECMO体外生命支持等治疗后，症状无好转，于2020年1月9日晚心跳停止，经抢救无效死亡。病原学检测结果提示新型冠状病毒核酸阳性。死亡诊断为重症肺炎，急性呼吸窘迫综合征（重度），脓毒性休克，多器官功能衰竭，严重酸碱代谢紊乱，肝硬化。直接死亡原因为呼吸循环衰竭。来源: [武汉卫健委](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036)
 * 香港：1月9日晚上，政府公布10宗武汉肺炎怀疑个案，包括3名11个月大至2岁婴幼儿，累计怀疑个案48宗，当中23人仍留院；仍有15人的化验结果未公布。来源: [明报](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20200110/s00001/1578594598129/%e5%85%a7%e5%9c%b0%e6%8f%ad%e6%96%b0%e5%86%a0%e7%8b%80%e7%97%85%e6%af%92-%e5%9f%ba%e5%9b%a0%e5%9c%96%e8%ad%9c%e6%9c%aa%e5%85%ac%e5%b8%83-%e6%b8%af%e7%b4%a2%e8%b3%87%e6%96%99-%e8%a2%81%e5%9c%8b%e5%8b%87-%e5%8f%af%e5%8a%a98%e5%b0%8f%e6%99%82%e6%aa%a2%e6%b8%ac%e6%b8%9b%e8%87%b32%e5%b0%8f%e6%99%82)
+* 约30例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月10日
 * 武汉政协武汉市第十三届委员会第四次会议和武汉市第十四届人民代表大会第五次会议闭幕 来源:[湖北省人民政府](https://www.hubei.gov.cn/hbfb/szsm/202001/t20200111_1910491.shtml)
 * 武汉市卫健委发布通告，截至2020年1月10日24时，已完成病原核酸检测。初步诊断有新型冠状病毒感染的肺炎病例41例，其中已出院2例、重症7例、死亡1例，其余患者病情稳定。所有密切接触者739人，其中医务人员419人。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109035)
-*
+* 约30例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
+
 ## 1月11日
 * 武汉市卫健委发布通告，1月11日0—24时，我市无新增新型冠状病毒感染的肺炎病例，治愈出院4例，无新增死亡病例报告。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011209037)
 * 武汉病毒性肺炎出现1例死亡
+* 约30例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月12日
 * 武汉市卫健委发布通告，1月12日0—24时，我市无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011309038)
 * 香港：卫生署卫生防护中心公布再新增多6宗武汉肺炎怀疑个案，患者年龄介乎8至67岁，当中3人已有化验结果，证实感染流感病毒。医管局表示，公立医院自2019年12月31日起，共向卫生署呈报67宗相关怀疑个案，病人样本已送交化验，目前51人已经出院，所有仍然留院病人情况稳定。来源: [东网](https://hk.on.cc/hk/bkn/cnt/news/20200112/bkn-20200112173724169-0112_00822_001.html)
 * 湖北省政协十二届三次会议开幕。来源: [中国共产党新闻网](http://cpc.people.com.cn/n1/2020/0112/c64102-31544588.html)
 * 湖北省十三届人大三次会议开幕。 来源: [中国共产党新闻网](http://cpc.people.com.cn/n1/2020/0113/c117005-31545976.html)
+* 约30例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月13日
 * 武汉市卫健委发布通告，1月13日0—24时，我市无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011409039)
 * 世界卫生组织正式将病毒命名为“2019新型冠状病毒”（2019-nCoV）来源：[世界卫生组织](https://www.who.int/publications-detail/surveillance-case-definitions-for-human-infection-with-novel-coronavirus-(ncov))
 * 香港：截至中午12时，共接获68宗怀疑个案。 来源: [立场新闻](https://www.thestandnews.com/politics/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E-%E9%A3%9F%E8%A1%9E%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%B7%E7%8E%87%E5%9C%98%E8%A8%AA%E6%AD%A6%E6%BC%A2-%E6%9C%AC%E6%B8%AF%E5%86%8D%E6%96%B0%E5%A2%9E%E4%B8%80%E5%AE%97%E6%87%B7%E7%96%91%E5%80%8B%E6%A1%88/)
 * 2020年1月13日，泰国公共卫生部宣布确认国内首宗感染个案，亦是中华人民共和国以外首宗确认感染个案。患者为来自武汉的61岁女子，她在新曼谷国际机场被查出高烧后于1月8日送院，化验结果显示对“2019新型冠状病毒”呈阳性。患者已逐渐康复，准备出院返回中国大陆，她去过武汉的传统市场，但并未去过爆发疫情的华南海鲜市场 来源: [now新闻](https://news.now.com/home/international/player?newsId=376612)来源: [中央通讯社](https://www.cna.com.tw/news/firstnews/202001140175.aspx)
+* 约24例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月14日
 * 武汉市卫健委发布通告，1月14日0—24时，我市无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011409039)
 * 1月14日起，武汉在机场、火车站、长途汽车站、客运码头迅速安装红外线测温仪35台，配备手持红外线测温仪300余台，各区正在陆续加大配备力度；在“三站一场”设置体温检测点、排查点，加强离汉旅客体温检测工作；对出现发热的旅客进行登记、发放宣传册和口罩、免费办理退票或改签手续、指导转诊到辖区医疗机构，并进行登记报告。来源: [人民网](http://m.people.cn/n4/2020/0125/c205294-13624906.html)
+* 约24例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月15日
 * 武汉市卫健委发布通告，1月15日0—24时，我市无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011609057)
 * 香港：卫生防护中心指截至中午12时，在过去24小时录得5宗怀疑个案。由去年12月31日至今，怀疑个案累积至76宗，其中66人已出院，10人仍留院 来源: [苹果日报](https://hk.news.appledaily.com/local/20200115/TWSUHWP7BONHXKCLB76MG7RMFI/)
 * 湖北省政协十二届三次会议闭幕。来源: [中国共产党新闻网](http://cpc.people.com.cn/n1/2020/0116/c117005-31551468.html)
 * 日本：确诊患者15日出院。此患者1月3日在中国武汉市即有发热症状，6日返回日本，喝退烧药通过机场体温检查，回到神奈川县后求诊；10日入院，15日被国立感染症研究所检出新型冠状病毒阳性，自称未去过爆发疫情的华南海鲜市场，但称在中国大陆时与患有未知种类肺炎的父亲住在一起。来源: [联合新闻网](https://udn.com/news/story/6809/4290661)
+* 约24例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
+
 ## 1月16日
 * 武汉市卫健委发布通告，2020年1月16日0—24时，治愈出院3例，新增4例新型冠状病毒感染的肺炎病例，截至目前，我市累计报告新型冠状病毒感染的肺炎病例45例，已治愈出院15例，在治重症5例，死亡2例。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011809064)
+* 约15例。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
 
 ## 1月17日
 * 武汉市卫健委发布通告，2020年1月17日0—24时，治愈出院4例，新增病例17例，无死亡病例。来源: [武汉市卫健委官网](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011909074)
@@ -215,6 +243,16 @@
 
 ## 1月29日
 * 英航暂停直飞中国航班至3月 来源: [财经网](http://industry.caijing.com.cn/20200129/4640644.shtml)
+* 世界知名的《新英格兰医学杂志》上刊出了《新型冠状病毒肺炎在武汉的早期传播》，武汉市前425例确诊病例的数据，该流行病每7.4天增加一倍。R0为2.2（平均每个患者将感染传播给2.2个其他人），425例病例中几乎有一半发生在60岁以上的成年人。有证据表明自2019年12月中以来在亲密接触者之间已经发生了人与人之间的传播。 来源: [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?query=featured_home)
+## 1月30日
+* 印度报告了首例确诊的冠状病毒病例。根据一份政府声明，在武汉大学学习的一名学生在印度南部喀拉拉邦的测试呈阳性。声明说，患者被隔离在医院，病情稳定并受到密切监视。来源: [彭博社](https://www.bloomberg.com/news/articles/2020-01-29/who-to-mull-emergency-decree-death-toll-hits-169-virus-update)
+* 唐纳德·特朗普总统任命了一个工作队来协调美国对冠状病毒爆发的反应。 来源: [彭博社](https://www.bloomberg.com/news/articles/2020-01-29/who-to-mull-emergency-decree-death-toll-hits-169-virus-update)
+* 日本卫生大臣加藤胜伸告诉议会委员会，在周三从湖北省返回日本的206人中，有3人的新冠状病毒呈阳性，其中2人没有任何症状。 来源: [彭博社](https://www.bloomberg.com/news/articles/2020-01-29/who-to-mull-emergency-decree-death-toll-hits-169-virus-update)
+* 韩国首出现新冠肺炎交叉感染病例。 来源: [韩联社](https://cn.yna.co.kr/view/ACK20200130006300881)
+* 德国汉莎航空宣布暂时停止飞往中国大陆的航班 来源: [dw.com](https://www.dw.com/zh/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E8%82%86%E8%99%90-%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9/a-52186095)
+
+## 1月31日
+* 世界卫生组织（WHO）宣布把中国武汉爆发的新型冠状病毒疫情上升为“国际公共卫生紧急事件”。此前，西非的埃博拉疫情和巴西的寨卡病毒也曾被列入紧急事件。来源: [BBC](https://twitter.com/bbcchinese/status/1222969328150155266)
 
 ## 项目链接
 * [项目github地址](https://github.com/dreamerjackson/coronavirus)
