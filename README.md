@@ -231,6 +231,7 @@
 ## 1月26日
 * 全国新增769例。来源: [国家卫健委](http://www.nhc.gov.cn/xcs/yqtb/202001/3882fdcdbfdc4b4fa4e3a829b62d518e.shtml)
 * 香港再“正式确诊”1名武汉肺炎病人，累计6人。患者是47岁男子，16日至23日在武汉白沙洲市场工作，20日晚上发烧，翌日求医之后退烧。23日至咸宁乘搭G1035高铁2号车厢至深圳，转G407的3号车厢抵港，抵港后因曾被狗咬立即到律敦治医院求诊并表示他从武汉返港，惟当时未有发烧，因此未有即时隔离。至24日再发烧，25日再到律敦治医院求诊才被隔离.来源: [香港电台](https://news.rthk.hk/rthk/ch/component/k2/1504936-20200126.htm) 另外，有消息指，24日于屯门医院留医后来确诊的62岁女子，其丈夫亦初步确诊感染新型冠状病毒[67]。晚上再有一人对新型冠状病毒初步测试呈阳性反应。该病人居于粉岭，早前曾前往武汉，1月22日到深圳医院求医，测试呈甲型流感H1及H3阳性反应、肺片清晰，深圳院方安排她出院，25日经罗湖口岸返港入境时发烧并直送北区医院求诊，其后初步确诊感染新型冠状病毒来源：[苹果日报](https://hk.appledaily.com/local/20200127/LDSLV5DXXK7NOVPP2NU4TM3BIE/)
+* 据英国《卫报》报道，帝国理工学院的公共卫生专家Neil Ferguson教授估计10万人感染。来源: [卫报]( https://www.theguardian.com/science/2020/jan/26/coronavirus-could-infect-100000-globally-experts-warn)
 
 ## 1月27日
 * 全国新增1771例。来源: [国家卫健委](http://www.nhc.gov.cn/xcs/yqtb/202001/ec9fe7ea987d467d9462e7db509079e6.shtml)
@@ -251,6 +252,7 @@
 * 日本卫生大臣加藤胜伸告诉议会委员会，在周三从湖北省返回日本的206人中，有3人的新冠状病毒呈阳性，其中2人没有任何症状。 来源: [彭博社](https://www.bloomberg.com/news/articles/2020-01-29/who-to-mull-emergency-decree-death-toll-hits-169-virus-update)
 * 韩国首出现新冠肺炎交叉感染病例。 来源: [韩联社](https://cn.yna.co.kr/view/ACK20200130006300881)
 * 德国汉莎航空宣布暂时停止飞往中国大陆的航班 来源: [dw.com](https://www.dw.com/zh/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E8%82%86%E8%99%90-%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9/a-52186095)
+* 美国参议员敦促禁止中国旅行。来源: [youtube](https://www.youtube.com/watch?v=iT3txmbWxb4&feature=youtu.be)
 
 ## 1月31日
 * 世界卫生组织（WHO）宣布把中国武汉爆发的新型冠状病毒疫情上升为“国际公共卫生紧急事件”。此前，西非的埃博拉疫情和巴西的寨卡病毒也曾被列入紧急事件。来源: [BBC](https://twitter.com/bbcchinese/status/1222969328150155266)
